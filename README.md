@@ -21,4 +21,4 @@ The page practices Flexbox, the box model, background colors, spacing, and a med
 
 - index.html — page content and structure
 - style.css — colors, layout, and responsive styles
-```
+
